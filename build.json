@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "Diatone 180 Lizard",
+    "esc": "UnknownManufacturer/dronematters/Afro-12A-Ultra-Lite-ESC-(v3)",
+    "motor": "DYS/BE1806-2300kv",
+    "fc": "AbuseMark/Full-Naze32",
+    "prop": [
+      "Diatone 4045 BN"
+    ],
+    "arm": "",
+    "battery": [
+      "Turnigy 850mAh 3S 40C Lipo Pack"
+    ],
+    "osd": "MultiRotorMania/MicroOSD",
+    "receiver": "OrangeRx/R615X-DSM2-DSMX-Compatible-6Ch-Receiver-w-CPPM",
+    "flightcam": "600tlv sony 90degre",
+    "hqcam": "",
+    "videotx": "Eachine 5.8GHz 200mW",
+    "blackbox": "",
+    "voltagereg": ""
+  },
+  "version": 1
 }
